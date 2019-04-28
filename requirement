@@ -1,0 +1,17 @@
+Task:
+1. Landing screen
+2. Login Page
+3. Signup Page
+4. Task List
+5. Add Task Pop up
+    - Task Name
+    - Description
+    - Label (can create)
+    - Priority
+    - Due date
+    - Share task With anyone
+6. Edit task
+    - Name, Description, due date, priority, Label
+7. Delete Task
+8. Status(complete) - Mark as done
+9. Search
